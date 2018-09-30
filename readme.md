@@ -14,3 +14,6 @@ On the whole, the main points are as follows:
 - Vector Helper maximizes performance while ensuring runtime security and integrity.
 - Vector Helper ensures that C/C++ can be used at the same time, providing preprocessor compatibility support.
 - Vector Helper is based on the common C code across the mainstream platform (in theory), but some platforms are unproven.
+
+## Who is currently serving Vector Helper?
+...
