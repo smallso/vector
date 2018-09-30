@@ -1,6 +1,5 @@
 Vector Helper
 --------
-Version: 1.0.0 Modify 2018/9/20 16:33:36
 Website: https://www.xiaoyy.org/
 License: MIT (From https://opensource.org/licenses/MIT)
 --------
@@ -25,4 +24,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
-
