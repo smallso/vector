@@ -1,4 +1,4 @@
-## What is Vector Helper?
+## What is Vector Helper? [![Build Status](https://travis-ci.com/SMALLSO/Vector.svg?branch=master)](https://travis-ci.com/SMALLSO/Vector)
 Vector Helper is a vector array library written in C that provides a vector array of C projects with a focus on runtime security and integrity. The project was initiated by SmallSO Studios.
 
 ## Why is there a Vector Helper?
