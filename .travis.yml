@@ -1,0 +1,15 @@
+# travis-ci.org - continuous testing environment - http://docs.travis-ci.com/
+
+language: c
+compiler:
+  - gcc
+
+# The build machines are Ubuntu 12.04 x64
+addons:
+  apt:
+    packages:
+      - libc-bin
+
+script:
+  - make
+  - sudo make install
